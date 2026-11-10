@@ -121,5 +121,5 @@ held-out known sites
 
 If my alternative explanation is right, AUC value will be greater than
 0.5 on held-out known sites, but the output from new predictions on
-mounds, but visually verified as false positive such as a
+mounds upon visual inspection turn out to be a false positive such as a
 non-archeological pixel
